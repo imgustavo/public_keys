@@ -1,2 +1,2 @@
 # public_keys
-PGP public keys
+PGP PUBLIC KEY:
